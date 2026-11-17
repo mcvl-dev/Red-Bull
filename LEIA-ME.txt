@@ -1,0 +1,12 @@
+RED BULL SYMPHONIC
+
+Mantenha estes arquivos juntos na mesma pasta:
+index.html - estrutura e imagens incorporadas
+style.css - estilos, responsividade e animações
+script.js - interações e formulário
+
+Abra a pasta no VS Code. Para visualizar, abra index.html no navegador ou use a extensão Live Server. Não é necessário npm ou build.
+
+As imagens continuam incorporadas ao HTML. As fontes do Google Fonts e o vídeo do YouTube precisam de internet.
+
+O formulário mantém a configuração da versão anterior: para enviar cadastros, configure FORM_ENDPOINT em script.js e o link da política de privacidade em index.html. Sem essas configurações, o formulário avisa que o cadastro ainda não está disponível.
